@@ -1,3 +1,7 @@
+Screenshot:
+![image](https://github.com/yashvara/BMI-Calculator/assets/92502490/00f0d261-4aeb-4ed9-ba7f-bf5627db1e3e)
+
+
 # flutter_application_1
 
 A new Flutter project.
