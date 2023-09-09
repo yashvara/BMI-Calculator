@@ -1,6 +1,6 @@
 **BMI Calculator**
 
-![image](https://github.com/yashvara/BMI-Calculator/assets/92502490/00f0d261-4aeb-4ed9-ba7f-bf5627db1e3e)
+![image](https://github.com/yashvara/BMI-Calculator-using-Flutter/assets/92502490/d65d24f2-147e-4b0e-bc68-d060df31a453)
 
 
 A new Flutter project.
